@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2026948-2a51-4d7f-8761-033f2685feb3" name="Changes" comment="Add comments">
+    <list default="true" id="b2026948-2a51-4d7f-8761-033f2685feb3" name="Changes" comment="Data types (Variables)">
+      <change afterPath="$PROJECT_DIR$/src/syntax/lesson6_casting/Casting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +46,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Casting.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Variables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -78,12 +81,21 @@
       <option name="project" value="LOCAL" />
       <updated>1728411520802</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Data types (Variables)">
+      <option name="closed" value="true" />
+      <created>1728412593467</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728412593467</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First program" />
     <MESSAGE value="Add comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add comments" />
+    <MESSAGE value="Data types (Variables)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Data types (Variables)" />
   </component>
 </project>
