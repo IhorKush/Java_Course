@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2026948-2a51-4d7f-8761-033f2685feb3" name="Changes" comment="Kotlin_templates">
-      <change afterPath="$PROJECT_DIR$/src/syntax/lesson13_null/NullDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b2026948-2a51-4d7f-8761-033f2685feb3" name="Changes" comment="Null_Demo">
+      <change beforePath="$PROJECT_DIR$/hs_err_pid14572.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hs_err_pid1812.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hs_err_pid2664.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hs_err_pid7628.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hs_err_pid8860.log" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,7 +185,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728414960862</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Null_Demo">
+      <option name="closed" value="true" />
+      <created>1728416516253</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1728416516253</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -196,6 +207,7 @@
     <MESSAGE value="Learning String" />
     <MESSAGE value="Kotlin_val_var" />
     <MESSAGE value="Kotlin_templates" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kotlin_templates" />
+    <MESSAGE value="Null_Demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Null_Demo" />
   </component>
 </project>
