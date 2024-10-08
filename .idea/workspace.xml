@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2026948-2a51-4d7f-8761-033f2685feb3" name="Changes" comment="Learning String">
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/syntax/lesson11_kotlin_val_var/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_Course.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Course.iml" afterDir="false" />
-    </list>
+    <list default="true" id="b2026948-2a51-4d7f-8761-033f2685feb3" name="Changes" comment="Kotlin_val_var" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +33,9 @@
     "accountId": "1c6952de-3fe6-4843-a099-bb8ba4e5e89a"
   }
 }]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>
@@ -55,11 +53,13 @@
     "Application.Operators.executor": "Run",
     "Application.StringDemo.executor": "Run",
     "Application.Variables.executor": "Run",
+    "Kotlin.MainKt.executor": "Run",
     "Notification.DisplayName-DoNotAsk-Vcs Important Messages": "VCS important messages",
     "Notification.DoNotAsk-Vcs Important Messages": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/warho/IdeaProjects/Java_Course/Java_Course/src/Main.java"
   }
@@ -137,7 +137,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728413979496</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Kotlin_val_var">
+      <option name="closed" value="true" />
+      <created>1728414451040</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1728414451040</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -149,6 +157,7 @@
     <MESSAGE value="Math operators" />
     <MESSAGE value="AND_OR Operators" />
     <MESSAGE value="Learning String" />
-    <option name="LAST_COMMIT_MESSAGE" value="Learning String" />
+    <MESSAGE value="Kotlin_val_var" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kotlin_val_var" />
   </component>
 </project>
