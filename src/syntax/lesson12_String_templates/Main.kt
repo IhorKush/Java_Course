@@ -6,7 +6,7 @@ fun main() {
 
     println("Hello, $nameOfManager !")
 
-    var a = 4
+    var a = 6
     var b = 8
 
     println("The sum a + b = ${a + b}")

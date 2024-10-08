@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2026948-2a51-4d7f-8761-033f2685feb3" name="Changes" comment="Kotlin_val_var" />
+    <list default="true" id="b2026948-2a51-4d7f-8761-033f2685feb3" name="Changes" comment="Kotlin_templates" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +15,7 @@
       <list>
         <option value="Class" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -145,7 +146,23 @@
       <option name="project" value="LOCAL" />
       <updated>1728414451040</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Kotlin_templates">
+      <option name="closed" value="true" />
+      <created>1728414745006</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1728414745006</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Kotlin_templates">
+      <option name="closed" value="true" />
+      <created>1728414847705</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1728414847705</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -158,6 +175,7 @@
     <MESSAGE value="AND_OR Operators" />
     <MESSAGE value="Learning String" />
     <MESSAGE value="Kotlin_val_var" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kotlin_val_var" />
+    <MESSAGE value="Kotlin_templates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kotlin_templates" />
   </component>
 </project>
