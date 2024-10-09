@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2026948-2a51-4d7f-8761-033f2685feb3" name="Changes" comment="Scanner_Demo">
-      <change afterPath="$PROJECT_DIR$/src/syntax/lesson15_printf/PrintfDemo.java" afterDir="false" />
+    <list default="true" id="b2026948-2a51-4d7f-8761-033f2685feb3" name="Changes" comment="If_Demo">
+      <change afterPath="$PROJECT_DIR$/src/syntax/lesson17_do_while/WhileDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hs_err_pid14572.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/hs_err_pid1812.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/hs_err_pid2664.log" beforeDir="false" />
@@ -57,12 +58,15 @@
   "keyToString": {
     "Application.Casting.executor": "Run",
     "Application.Final.executor": "Run",
+    "Application.IfDemo.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.NullDemo.executor": "Run",
     "Application.Operators.executor": "Run",
+    "Application.PrintfDemo.executor": "Run",
     "Application.ScannerDemo.executor": "Run",
     "Application.StringDemo.executor": "Run",
     "Application.Variables.executor": "Run",
+    "Application.WhileDemo.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
     "Notification.DisplayName-DoNotAsk-Vcs Important Messages": "VCS important messages",
     "Notification.DoNotAsk-Vcs Important Messages": "true",
@@ -203,7 +207,23 @@
       <option name="project" value="LOCAL" />
       <updated>1728416789876</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Printf_Demo">
+      <option name="closed" value="true" />
+      <created>1728417010855</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1728417010855</updated>
+    </task>
+    <task id="LOCAL-00017" summary="If_Demo">
+      <option name="closed" value="true" />
+      <created>1728417185217</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1728417185217</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -219,6 +239,8 @@
     <MESSAGE value="Kotlin_templates" />
     <MESSAGE value="Null_Demo" />
     <MESSAGE value="Scanner_Demo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Scanner_Demo" />
+    <MESSAGE value="Printf_Demo" />
+    <MESSAGE value="If_Demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="If_Demo" />
   </component>
 </project>
