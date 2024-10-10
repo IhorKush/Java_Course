@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2026948-2a51-4d7f-8761-033f2685feb3" name="Changes" comment="If_Demo">
-      <change afterPath="$PROJECT_DIR$/src/syntax/lesson17_do_while/WhileDemo.java" afterDir="false" />
+    <list default="true" id="b2026948-2a51-4d7f-8761-033f2685feb3" name="Changes" comment="Do-While-Demo">
+      <change afterPath="$PROJECT_DIR$/src/syntax/lesson18_for/ForDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hs_err_pid14572.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/hs_err_pid1812.log" beforeDir="false" />
@@ -58,6 +58,7 @@
   "keyToString": {
     "Application.Casting.executor": "Run",
     "Application.Final.executor": "Run",
+    "Application.ForDemo.executor": "Run",
     "Application.IfDemo.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.NullDemo.executor": "Run",
@@ -223,7 +224,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728417185217</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Do-While-Demo">
+      <option name="closed" value="true" />
+      <created>1728501135852</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1728501135852</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -241,6 +250,7 @@
     <MESSAGE value="Scanner_Demo" />
     <MESSAGE value="Printf_Demo" />
     <MESSAGE value="If_Demo" />
-    <option name="LAST_COMMIT_MESSAGE" value="If_Demo" />
+    <MESSAGE value="Do-While-Demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Do-While-Demo" />
   </component>
 </project>
