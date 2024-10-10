@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2026948-2a51-4d7f-8761-033f2685feb3" name="Changes" comment="For_Demo">
-      <change afterPath="$PROJECT_DIR$/src/syntax/lesson19_functions/FunctionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/syntax/lesson19_functions/FunctionsDemo.kt" afterDir="false" />
+    <list default="true" id="b2026948-2a51-4d7f-8761-033f2685feb3" name="Changes" comment="Functions Java/Kotlin Demo">
+      <change afterPath="$PROJECT_DIR$/src/syntax/lesson20_unit/UnitDemo.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hs_err_pid14572.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/hs_err_pid1812.log" beforeDir="false" />
@@ -23,8 +22,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
-        <option value="Kotlin File" />
         <option value="Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -72,6 +71,7 @@
     "Application.WhileDemo.executor": "Run",
     "Kotlin.FunctionsDemoKt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
+    "Kotlin.UnitDemoKt.executor": "Run",
     "Notification.DisplayName-DoNotAsk-Vcs Important Messages": "VCS important messages",
     "Notification.DoNotAsk-Vcs Important Messages": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -243,7 +243,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728585712856</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Functions Java/Kotlin Demo">
+      <option name="closed" value="true" />
+      <created>1728588012762</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1728588012762</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -263,6 +271,7 @@
     <MESSAGE value="If_Demo" />
     <MESSAGE value="Do-While-Demo" />
     <MESSAGE value="For_Demo" />
-    <option name="LAST_COMMIT_MESSAGE" value="For_Demo" />
+    <MESSAGE value="Functions Java/Kotlin Demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Functions Java/Kotlin Demo" />
   </component>
 </project>
