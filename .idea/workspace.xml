@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2026948-2a51-4d7f-8761-033f2685feb3" name="Changes" comment="Unit">
-      <change afterPath="$PROJECT_DIR$/src/syntax/lesson21_practice/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/syntax/lesson21_practice/Practice.kt" afterDir="false" />
+    <list default="true" id="b2026948-2a51-4d7f-8761-033f2685feb3" name="Changes" comment="Practice">
+      <change afterPath="$PROJECT_DIR$/src/syntax/lesson22_switch_when/SwitchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/syntax/lesson22_switch_when/WhenDemo.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hs_err_pid14572.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/hs_err_pid1812.log" beforeDir="false" />
@@ -23,8 +23,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
-        <option value="Kotlin File" />
         <option value="Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -69,12 +69,14 @@
     "Application.PrintfDemo.executor": "Run",
     "Application.ScannerDemo.executor": "Run",
     "Application.StringDemo.executor": "Run",
+    "Application.SwitchDemo.executor": "Run",
     "Application.Variables.executor": "Run",
     "Application.WhileDemo.executor": "Run",
     "Kotlin.FunctionsDemoKt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
     "Kotlin.PracticeKt.executor": "Run",
     "Kotlin.UnitDemoKt.executor": "Run",
+    "Kotlin.WhenDemoKt.executor": "Run",
     "Notification.DisplayName-DoNotAsk-Vcs Important Messages": "VCS important messages",
     "Notification.DoNotAsk-Vcs Important Messages": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -85,13 +87,26 @@
     "onboarding.tips.debug.path": "C:/Users/warho/IdeaProjects/Java_Course/Java_Course/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.PracticeKt">
+  <component name="RunManager" selected="Kotlin.WhenDemoKt">
     <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="syntax.lesson21_practice.Practice" />
       <module name="Java_Course" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="syntax.lesson21_practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwitchDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="syntax.lesson22_switch_when.SwitchDemo" />
+      <module name="Java_Course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="syntax.lesson22_switch_when.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,8 +121,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WhenDemoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="syntax.lesson22_switch_when.WhenDemoKt" />
+      <module name="Java_Course" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.WhenDemoKt" />
+        <item itemvalue="Application.SwitchDemo" />
         <item itemvalue="Kotlin.PracticeKt" />
         <item itemvalue="Application.Practice" />
       </list>
@@ -290,7 +314,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728589065478</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Practice">
+      <option name="closed" value="true" />
+      <created>1728733243891</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1728733243891</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -312,6 +344,7 @@
     <MESSAGE value="For_Demo" />
     <MESSAGE value="Functions Java/Kotlin Demo" />
     <MESSAGE value="Unit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Unit" />
+    <MESSAGE value="Practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice" />
   </component>
 </project>
