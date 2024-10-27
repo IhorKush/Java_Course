@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2026948-2a51-4d7f-8761-033f2685feb3" name="Changes" comment="BigDecimal, BigInteger">
-      <change afterPath="$PROJECT_DIR$/src/collections/ArrayDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/ArrayDemo.kt" afterDir="false" />
+    <list default="true" id="b2026948-2a51-4d7f-8761-033f2685feb3" name="Changes" comment="Array">
+      <change afterPath="$PROJECT_DIR$/src/oop/OOPDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/PersonKT.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hs_err_pid14572.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/hs_err_pid1812.log" beforeDir="false" />
@@ -22,9 +23,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
-        <option value="Class" />
         <option value="Kotlin File" />
+        <option value="Class" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -66,12 +67,14 @@
     "Application.IfDemo.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.NullDemo.executor": "Run",
+    "Application.OOPDemo.executor": "Run",
     "Application.Operators.executor": "Run",
     "Application.Practice.executor": "Run",
     "Application.PrintfDemo.executor": "Run",
     "Application.ScannerDemo.executor": "Run",
     "Application.StringDemo.executor": "Run",
     "Application.SwitchDemo.executor": "Run",
+    "Application.Test.executor": "Run",
     "Application.Variables.executor": "Run",
     "Application.WhileDemo.executor": "Run",
     "Kotlin.ArrayDemoKt.executor": "Run",
@@ -90,7 +93,7 @@
     "onboarding.tips.debug.path": "C:/Users/warho/IdeaProjects/Java_Course/Java_Course/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.ArrayDemoKt">
+  <component name="RunManager" selected="Application.OOPDemo">
     <configuration name="ArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collections.ArrayDemo" />
       <module name="Java_Course" />
@@ -117,15 +120,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="syntax.lesson22_switch_when.SwitchDemo" />
+    <configuration name="OOPDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.OOPDemo" />
       <module name="Java_Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="syntax.lesson22_switch_when.*" />
+          <option name="PATTERN" value="oop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="Java_Course" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -137,20 +147,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhenDemoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="syntax.lesson22_switch_when.WhenDemoKt" />
-      <module name="Java_Course" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OOPDemo" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Kotlin.ArrayDemoKt" />
         <item itemvalue="Application.ArrayDemo" />
         <item itemvalue="Application.Demo" />
-        <item itemvalue="Kotlin.WhenDemoKt" />
-        <item itemvalue="Application.SwitchDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -355,7 +358,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728836599639</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Array">
+      <option name="closed" value="true" />
+      <created>1728842025707</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1728842025707</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -380,6 +391,7 @@
     <MESSAGE value="Practice" />
     <MESSAGE value="Switch When" />
     <MESSAGE value="BigDecimal, BigInteger" />
-    <option name="LAST_COMMIT_MESSAGE" value="BigDecimal, BigInteger" />
+    <MESSAGE value="Array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Array" />
   </component>
 </project>
