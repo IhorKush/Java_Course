@@ -18,6 +18,6 @@ public class Person {
     }
 
     public void sayHello() {
-        System.out.println("Hello, my name is " + name);
+        System.out.println("Hello, my name is " + name + ".");
     }
 }

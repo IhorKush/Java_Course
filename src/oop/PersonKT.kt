@@ -11,6 +11,6 @@ class PersonKT(var name: String, var age: Int) {
     }
 
     fun sayHello() {
-        println("Hello, my name is ${name}")
+        println("Hello, my name is ${name}.")
     }
 }
