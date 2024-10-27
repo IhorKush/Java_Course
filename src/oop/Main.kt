@@ -1,7 +1,7 @@
 package oop
 
-fun main(){
+fun main() {
 
-    val harry = Person("Harry Potter")
+    val harry = Person("Harry Potter.")
     harry.sayHello()
 }
