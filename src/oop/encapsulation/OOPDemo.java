@@ -1,4 +1,4 @@
-package oop;
+package oop.encapsulation;
 
 public class OOPDemo {
 
@@ -6,8 +6,8 @@ public class OOPDemo {
 
         //Java
         Person ihor = new Person();
-        ihor.name = "Ihor Kush.";
-        ihor.age = 36;
+        ihor.setName("Ihor");
+        ihor.setAge(36);
         ihor.sayHello();
 
         Person ivan = new Person("Ivan.", 30);

@@ -4,12 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2026948-2a51-4d7f-8761-033f2685feb3" name="Changes" comment="Constructor Demo">
+    <list default="true" id="b2026948-2a51-4d7f-8761-033f2685feb3" name="Changes" comment="ConstructorDemo">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hs_err_pid14572.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/hs_err_pid1812.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/hs_err_pid2664.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/hs_err_pid7628.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/hs_err_pid8860.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/encapsulation/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/OOPDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/encapsulation/OOPDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/encapsulation/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/PersonKT.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/encapsulation/PersonKT.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +94,15 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/warho/IdeaProjects/Java_Course/Java_Course/src/Main.java&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\warho\IdeaProjects\Java_Course\Java_Course\src\oop\encapsulation" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="oop.encapsulation" />
+      <recent name="oop" />
+    </key>
+  </component>
   <component name="RunManager" selected="Kotlin.MainKt">
     <configuration name="ArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collections.ArrayDemo" />
@@ -104,11 +118,11 @@
       </method>
     </configuration>
     <configuration name="OOPDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.OOPDemo" />
+      <option name="MAIN_CLASS_NAME" value="oop.encapsulation.OOPDemo" />
       <module name="Java_Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop.*" />
+          <option name="PATTERN" value="oop.encapsulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,7 +145,7 @@
       </method>
     </configuration>
     <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.MainKt" />
+      <option name="MAIN_CLASS_NAME" value="oop.encapsulation.MainKt" />
       <module name="Java_Course" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -396,7 +410,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730055996858</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="ConstructorDemo">
+      <option name="closed" value="true" />
+      <created>1730056158783</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1730056158783</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -424,6 +446,7 @@
     <MESSAGE value="Array" />
     <MESSAGE value="OOP Demo" />
     <MESSAGE value="Constructor Demo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Constructor Demo" />
+    <MESSAGE value="ConstructorDemo" />
+    <option name="LAST_COMMIT_MESSAGE" value="ConstructorDemo" />
   </component>
 </project>

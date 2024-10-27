@@ -1,4 +1,4 @@
-package oop
+package oop.encapsulation
 
 class PersonKT(var name: String, var age: Int) {
 
