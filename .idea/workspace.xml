@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2026948-2a51-4d7f-8761-033f2685feb3" name="Changes" comment="Array">
-      <change afterPath="$PROJECT_DIR$/src/oop/OOPDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/PersonKT.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b2026948-2a51-4d7f-8761-033f2685feb3" name="Changes" comment="OOP Demo">
       <change beforePath="$PROJECT_DIR$/hs_err_pid14572.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/hs_err_pid1812.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/hs_err_pid2664.log" beforeDir="false" />
@@ -366,7 +362,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728842025707</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="OOP Demo">
+      <option name="closed" value="true" />
+      <created>1730049358053</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1730049358053</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -392,6 +396,7 @@
     <MESSAGE value="Switch When" />
     <MESSAGE value="BigDecimal, BigInteger" />
     <MESSAGE value="Array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Array" />
+    <MESSAGE value="OOP Demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="OOP Demo" />
   </component>
 </project>

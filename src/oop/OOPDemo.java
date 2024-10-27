@@ -11,7 +11,7 @@ public class OOPDemo {
 
         Person ivan = new Person();
         ivan.name = "Ivan";
-        ivan.age = 28;
+        ivan.age = 30;
         ivan.sayHello();
 
         PersonKT kotlinPerson = new PersonKT();
