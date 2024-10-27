@@ -5,11 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2026948-2a51-4d7f-8761-033f2685feb3" name="Changes" comment="OOP Demo">
+      <change afterPath="$PROJECT_DIR$/src/oop/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hs_err_pid14572.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/hs_err_pid1812.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/hs_err_pid2664.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/hs_err_pid7628.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/hs_err_pid8860.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/OOPDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/OOPDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/PersonKT.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/PersonKT.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,63 +57,50 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ArrayDemo.executor": "Run",
-    "Application.Casting.executor": "Run",
-    "Application.Demo.executor": "Run",
-    "Application.Final.executor": "Run",
-    "Application.ForDemo.executor": "Run",
-    "Application.FunctionDemo.executor": "Run",
-    "Application.IfDemo.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.NullDemo.executor": "Run",
-    "Application.OOPDemo.executor": "Run",
-    "Application.Operators.executor": "Run",
-    "Application.Practice.executor": "Run",
-    "Application.PrintfDemo.executor": "Run",
-    "Application.ScannerDemo.executor": "Run",
-    "Application.StringDemo.executor": "Run",
-    "Application.SwitchDemo.executor": "Run",
-    "Application.Test.executor": "Run",
-    "Application.Variables.executor": "Run",
-    "Application.WhileDemo.executor": "Run",
-    "Kotlin.ArrayDemoKt.executor": "Run",
-    "Kotlin.FunctionsDemoKt.executor": "Run",
-    "Kotlin.MainKt.executor": "Run",
-    "Kotlin.PracticeKt.executor": "Run",
-    "Kotlin.UnitDemoKt.executor": "Run",
-    "Kotlin.WhenDemoKt.executor": "Run",
-    "Notification.DisplayName-DoNotAsk-Vcs Important Messages": "VCS important messages",
-    "Notification.DoNotAsk-Vcs Important Messages": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/warho/IdeaProjects/Java_Course/Java_Course/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArrayDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Casting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Final.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ForDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FunctionDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IfDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NullDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OOPDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Operators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintfDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScannerDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SwitchDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Variables.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WhileDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ArrayDemoKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.FunctionsDemoKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MainKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.PracticeKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.UnitDemoKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.WhenDemoKt.executor&quot;: &quot;Run&quot;,
+    &quot;Notification.DisplayName-DoNotAsk-Vcs Important Messages&quot;: &quot;VCS important messages&quot;,
+    &quot;Notification.DoNotAsk-Vcs Important Messages&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/warho/IdeaProjects/Java_Course/Java_Course/src/Main.java&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.OOPDemo">
+}</component>
+  <component name="RunManager" selected="Kotlin.MainKt">
     <configuration name="ArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collections.ArrayDemo" />
       <module name="Java_Course" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="collections.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="syntax.lesson23_BigDecimal_BigInteger.Demo" />
-      <module name="Java_Course" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="syntax.lesson23_BigDecimal_BigInteger.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,13 +135,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.MainKt" />
+      <module name="Java_Course" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MainKt" />
         <item itemvalue="Application.OOPDemo" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Kotlin.ArrayDemoKt" />
         <item itemvalue="Application.ArrayDemo" />
-        <item itemvalue="Application.Demo" />
       </list>
     </recent_temporary>
   </component>
@@ -370,7 +369,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730049358053</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="OOP Demo">
+      <option name="closed" value="true" />
+      <created>1730052410296</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1730052410296</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
