@@ -4,17 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2026948-2a51-4d7f-8761-033f2685feb3" name="Changes" comment="ConstructorDemo">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b2026948-2a51-4d7f-8761-033f2685feb3" name="Changes" comment="EncapsulationDemo">
       <change beforePath="$PROJECT_DIR$/hs_err_pid14572.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/hs_err_pid1812.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/hs_err_pid2664.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/hs_err_pid7628.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/hs_err_pid8860.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/encapsulation/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/OOPDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/encapsulation/OOPDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/encapsulation/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/PersonKT.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/encapsulation/PersonKT.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -418,11 +413,18 @@
       <option name="project" value="LOCAL" />
       <updated>1730056158783</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="EncapsulationDemo">
+      <option name="closed" value="true" />
+      <created>1730059461082</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1730059461082</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="First program" />
     <MESSAGE value="Add comments" />
     <MESSAGE value="Data types (Variables)" />
     <MESSAGE value="Data casting" />
@@ -447,6 +449,7 @@
     <MESSAGE value="OOP Demo" />
     <MESSAGE value="Constructor Demo" />
     <MESSAGE value="ConstructorDemo" />
-    <option name="LAST_COMMIT_MESSAGE" value="ConstructorDemo" />
+    <MESSAGE value="EncapsulationDemo" />
+    <option name="LAST_COMMIT_MESSAGE" value="EncapsulationDemo" />
   </component>
 </project>
